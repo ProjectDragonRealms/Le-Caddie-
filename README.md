@@ -16,6 +16,8 @@
 
 ### Preview:
 ![Image](./Preview1.JPG)
+![Image](./Preview2.JPG)
+![Image](./Preview3.JPG)
 
 
   
