@@ -15,7 +15,7 @@
   - Password: admin
 
 ### Preview:
-![](Preview1.jpg)
+![Image](Preview1.jpg)
 
 
   
