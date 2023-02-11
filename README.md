@@ -13,6 +13,11 @@
 - The default password for Le Caddie` Employee and Admin is:
   - Username: EMP0000
   - Password: admin
+### FAQ
+- How do I edit the Bill?
+  - You could Rather edit it on Photoshop and edit your Details or you can [Mail me](mailto:panther2008aryan101@gmail.com) to edit it.
+- What if I have any issues regarding opening the App?
+  - You could contact me using [Mail](mailto:panther2008aryan101@gmail.com)
 
 ### Preview:
 ![Image](./Preview1.JPG)
