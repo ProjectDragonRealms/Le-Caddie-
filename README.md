@@ -4,7 +4,7 @@
 *Le Caddie`* Stands for **Shopping Cart** in French accent. A Software made in **Python - Tkinter** by [Ravanger101](https://github.com/Ravanger101) used for Shopping Billing and Invoices purposes. You can Create bills, Manage Inventory of Stocks and Goods. Easy and fast way to carry out process of Shopping Mart. This Software is easy to use and has a Aesthetic Layout which makes it more efficient to use. **Details regarding Le Caddie can be found below.**
 
 ## Installation:
-- You can download the Installer from [Releases]() and make sure to carry out installation processes.
+- You can download the Installer from [Releases](https://github.com/ProjectDragonRealms/Le-Caddie-/releases/tag/v1.0.0) and make sure to carry out installation processes.
 - The Application can be found in Start menu, Desktop Shortcut or can be searched (Le Caddie`) in the Search option.
 
 ### System Requirements and Instructions to use:
